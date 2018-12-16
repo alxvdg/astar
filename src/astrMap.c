@@ -9,7 +9,6 @@
 #include "errorCode.h"
 #include "astrMap.h"
 
-
 //--------------------------------//
 // PRIVATE FUNCTIONS              //
 //--------------------------------//
